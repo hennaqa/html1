@@ -1,0 +1,29 @@
+.para,
+.list_items{
+    color: purple;
+     font-size: 22px;
+     text-align: left;
+}
+
+.heading#title{
+    color: brown;
+}
+
+.heading{
+    color: darkblue;
+}
+
+.link.internal{
+    color: green;
+}
+
+.link.external{
+    color: red;
+}
+
+*{
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
