@@ -4,6 +4,17 @@
      font-size: 22px;
      text-align: left;
 }
+.lorem{
+    color: goldenrod;
+}
+
+#lp2{
+    color: brown;
+}
+.lorem .para1{
+    color: darkmagenta;
+}
+
 
 .heading#title{
     color: brown;
