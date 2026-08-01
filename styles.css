@@ -18,10 +18,15 @@
 
 .heading#title{
     color: brown;
+    margin-left: 3%;
+    border: 0px;
 }
 
 .heading{
     color: darkblue;
+    border: 10px solid lightcoral;
+    margin:20px;
+    padding: 10px;
 }
 
 .link.internal{
